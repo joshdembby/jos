@@ -1,0 +1,32 @@
+div{
+    background-color: rgb(204, 41, 41);
+}
+
+
+
+
+h1{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+
+
+
+.center{
+    width: 60%;
+    height: 60%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+button{
+    background-color: black;
+    color: blue;
+    width: 200px;
+}
